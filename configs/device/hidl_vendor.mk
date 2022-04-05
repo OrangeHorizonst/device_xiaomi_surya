@@ -40,10 +40,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.3.vendor
 
-# NFC
-PRODUCT_PACKAGES += \
-    android.hardware.nfc@1.2.vendor
-
 # Radio
 PRODUCT_PACKAGES += \
     android.hardware.radio@1.6.vendor \
