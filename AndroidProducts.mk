@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL8_DIR)/lineage_surya.mk
+    $(LOCAL_DIR)/lineage_surya.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_surya-user \
