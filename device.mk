@@ -221,7 +221,6 @@ TARGET_COMMON_QTI_COMPONENTS := \
     wfd \
     wlan
 
-$(call inherit-product, device/qcom/common/common.mk)
 
 # Radio
 PRODUCT_PACKAGES += \
